@@ -1,5 +1,5 @@
 {
-    "name": "black-panther",
+    "name": "JOEL MD",
     "description": "I am black-panther-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "website": "https://youtube.com/@ibrahimaitech",
     "repository": "https://github.com/ibrahimaitech/BLACK-PANTHER-XMD",
@@ -11,7 +11,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "joel tech",
         "required": false
       },
   
@@ -28,7 +28,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿"
+        "value": "JOEL XMD"
       },
       "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
@@ -38,7 +38,7 @@
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254739937062,254710772666"
+        "value": "255714595078"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -57,18 +57,18 @@
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
-        "value": "",
+        "value": "HRKU-03feec0e-33cb-4389-8981-872ba8817f53",
         "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Put Your Heroku App Name Here",
-        "value": "",
+        "value": "joel",
         "required": true
       },
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "available"
+        "value": "recording"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -78,12 +78,12 @@
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "READ_MESSAGE": {
         "description": "Fill the value true if you want bot to read all messages.",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "DISABLE_PM": {
         "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
@@ -100,11 +100,11 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254739937062,254710772666"
+        "value": "255714595078"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUxQYzhaWFo3MDJ1VVUrOHhibHJTUWdINXdJYUFtd0RqbHdCTkFNTi9HST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRGxVNjh4UTNiYVJBTUtKR2xOUDdLY2FvWXRZOFV1bzRva2RhNlU1SHdWST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrRmdoK0JPL1lIVzVBZFNZbkF6bEFtdEErQjBVby8xUVhMUmthQU42UFd3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhNkFtUXdXbng0K3Ura0ZZbXZ0L01DeGV3ZkVqWWtFaTQrODhNTVpCWEVJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1OUXJIZ0U2WW5ZR1BQc3ROSFB4Zzh0NGI0ZWc0NGlZOHdpdDd6dy9iM0E9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVmZEY2SHpWYndKelVDTXlTUEw2QjJ5NXh3RFVoV2xTTEtDOHlTeUl1Z2s9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0xDa3IvR2Vaclc2ZTVScnFCeStMTFFvVFE4WDVGSjNsRkhKakxrVnUyOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT3VNSlNGd0JMKzhOaGpoWGU4UHVpeFVhVGNFdUFsNys0ZTFIRitUV1dsUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlhBUnU1UHNoNWJEVXM1QU9BdE1VbldFd3hQK0trTDgzNlViUVEwSXMwRGJOdnlXbDVkdHNnNFhqdVhxaFJDVE55ZnpZek1wNHVFbDY1ZU96ZndQREJ3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTcsImFkdlNlY3JldEtleSI6ImdZcTBicFFraDlVTHBtS0MzbDgyVDlWc2hiWEdJK1Jaa2xpZnRtR09EOTA9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6ImhmdHZvSU95UlBpUjlXT1N5bzJDYWciLCJwaG9uZUlkIjoiYjMyNDVmYjMtMGYxYy00ZTQwLWJjN2MtYzlkZmUzZDJkMzZjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRrRkFya09MTDM2eEF6VFV6dzBtM1E5WmUyND0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLODBoNmpySitPcTF4SHVZMUxzc3BtVk0vVWM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiV1dXNko3UFEiLCJtZSI6eyJpZCI6IjI1NTc4MTE0NDUzOToxM0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJiZXN0IGNvZGVyIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQUHl2dklDRU9uS3FyUUdHQWNnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJka01idGtZQ3JTREoyOWZSbmNJdDlLUnZ6T0hxNCtwNDJCYVI4cVhiRnc4PSIsImFjY291bnRTaWduYXR1cmUiOiJuQ0x3YjZNTGlaSkVVT21QeXY4bWd2aW9IZkVQSnVsVFczR3RMYmRBdElPOTBLKzZwTFJvZjBjUUpDdmxOTENqVldRaEROZEpHRm4xNG1xUngyNkVDdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiRWxoem93K2l0N1V4b2R6N3hkcU9jRWhKLzcwTEVBKzhYdEptblcyWTFnTEJQOVVGMnlweTZuRmZ6aGt5TmZVV1ptaHIwbXV5ZXdNM0Y4TlBlc2pIQmc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTU3ODExNDQ1Mzk6MTNAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWFpERzdaR0FxMGd5ZHZYMFozQ0xmU2tiOHpoNnVQcWVOZ1drZktsMnhjUCJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMDM2MjM1OCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCejYifQ=="
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -112,12 +112,12 @@
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "MD",
         "required": false
       },
       "STICKER_AUTHOR": {
         "description": "Put Sticker Author_Name.",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "JOEL",
         "required": false
       }
     },
